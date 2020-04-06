@@ -8,11 +8,11 @@ When you have to compare percentage achivement between the categorical values, t
 
 ## Diagram Design / Configuration
 
-![Cylinder Gauge](./images/categorical-cylinder-gauge/categorical-cylinder-gauge-sample.png)
+![Cylinder Gauge](./images/categorical-cylinder-gauge/categorical-cylinder-gauge-sample.PNG)
 
 ### Binding
 
-![Cylinder Gauge](./images/categorical-cylinder-gauge/categorical-cylinder-gauge-data-bind.png)
+![Cylinder Gauge Data Bind](./images/categorical-cylinder-gauge/categorical-cylinder-gauge-data-bind.PNG)
 
 - The mandatory bindings are `Category` and `Actual`
 
@@ -53,7 +53,7 @@ Sample data download [here](./sample-data/categorical-cylinder-gauge/categorical
 
 ### Monthly Aircraft Fuel Consumption
 
-![Monthly Income Chart](./images/categorical-cylinder-gauge/categorical-cylinder-gauge-monthly-fuel.png)
+![Monthly Income Chart](./images/categorical-cylinder-gauge/categorical-cylinder-gauge-monthly-fuel.PNG)
 
 Sample data download [here](./sample-data/categorical-cylinder-gauge/categorical-cylinder-gauge-sample-data-monthly-fuel.xlsx).
 
